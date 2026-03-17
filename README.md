@@ -5,13 +5,13 @@
 
 ---
 
-## 📌 50-Word Summary
+## 50-Word Summary
 
 This project identifies optimal sites for utility-scale wind energy across Nigeria's 37 states using Global Wind Atlas data. Wind speed and power density at 100m were combined into a composite suitability index. Plateau, Gombe, and Adamawa ranked highest, making North East and North West Nigeria priority corridors for wind investment.
 
 ---
 
-## 🔬 Project Question
+## Project Question
 
 **Which Nigerian states and regions offer the highest suitability for utility-scale wind energy development, based on a composite index of wind speed and wind power density at 100m hub height?**
 
@@ -19,7 +19,7 @@ Nigeria faces a persistent electricity crisis, with over 85 million people lacki
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 nigeria-wind-suitability/
@@ -45,7 +45,7 @@ nigeria-wind-suitability/
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 | Dataset | Source | Description |
 |---------|--------|-------------|
@@ -71,7 +71,7 @@ nigeria-wind-suitability/
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 1. **Northern Nigeria dominates**: North East and North West regions record the highest wind speeds and power densities at 100m hub height.
 2. **Top 5 states by composite index**: Plateau (0.999), Gombe (0.991), Adamawa (0.918), Borno (0.867), Zamfara (0.853).
@@ -81,7 +81,7 @@ nigeria-wind-suitability/
 
 ---
 
-## ⚙️ How to Reproduce
+## How to Reproduce
 
 ### Requirements
 - R (version ≥ 4.0)
@@ -100,7 +100,7 @@ The notebook loads `data/raw/20260130_GWA.csv` directly — no additional setup 
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Analysis relies on modeled GWA data, not site-measured wind records
 - Land use, protected areas, grid proximity, and road access are not incorporated in this version
@@ -109,4 +109,4 @@ The notebook loads `data/raw/20260130_GWA.csv` directly — no additional setup 
 
 ---
 
-*Yale School of the Environment | Environmental Data Science Certificate | 2025–2026*
+*Odiniya Ojodomo | Yale School of the Environment | Environmental Data Science Certificate 2025–2026*
