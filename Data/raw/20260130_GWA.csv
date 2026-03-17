@@ -1,0 +1,38 @@
+﻿S/N,States,Capital,Region,Wind_Speed_10m (m/s),Mean_Power_Density_10m (W/m²),Wind_Speed_50m (m/s),Mean_Power_Density_50m (W/m²),Wind_Speed_100m (m/s),Mean_Power_Density_100m (W/m²),Wind_Speed_150m (m/s),Mean_Power_Density_150m (W/m²),Wind_Speed_200m (m/s),Mean_Power_Density_200m (W/m²)
+1,Abia,Umuahia,South East,2.06,10,3.6,39,4.42,70,5,103,5.49,136
+2,Adamawa,Yola,North East,4.66,142,6.17,260,7,353,7.6,449,8.08,540
+3,Akwa Ibom,Uyo,South South,2,9,3.24,30,4.04,56,4.62,84,5.15,119
+4,Anambra,Awka,South East,2.7,22,3.92,57,4.79,97,5.38,137,5.85,177
+5,Bauchi,Bauchi,North East,3.39,48,5.01,119,6.09,201,6.95,301,7.63,404
+6,Bayelsa,Yenagoa,South South,2.07,11,3.63,38,4.38,62,4.73,78,4.96,90
+7,Benue,Makurdi,North Central,3.25,34,4.91,100,5.88,169,6.57,238,7.12,307
+8,Borno,Maiduguri,North East,4.13,79,5.89,179,7.18,303,8.2,450,9.06,604
+9,Cross River,Calabar,South South,2.45,22,4.24,81,4.98,115,5.54,153,6.01,192
+10,Delta,Asaba,South South,2.45,15,3.81,44,4.61,78,5.13,108,5.57,142
+11,Ebonyi,Abakaliki,South East,2.78,22,3.97,56,4.71,93,5.25,133,5.7,173
+12,Edo,Benin City,South South,2.27,13,3.85,51,4.69,90,5.26,129,5.72,166
+13,Ekiti,Ado-Ekiti,South West,3.21,37,4.73,92,5.56,146,6.16,201,6.62,251
+14,Enugu,Enugu,South East,2.63,23,4.11,67,4.98,112,5.58,160,6.06,209
+15,Gombe,Gombe,North East,4.67,129,6.36,265,7.31,372,8.01,479,8.57,582
+16,Imo,Owerri,South East,1.59,5,2.93,21,3.9,46,4.63,77,5.23,111
+17,Jigawa,Dutse,North West,3.22,37,4.96,104,6.26,207,7.26,329,8.04,454
+18,Kaduna,Kaduna,North West,3.67,56,5.33,145,6.41,239,7.21,343,7.83,443
+19,Kano,Kano,North West,3.48,47,5.13,118,6.29,210,7.16,315,7.82,416
+20,Katsina,Katsina,North West,3.97,67,5.72,168,6.92,286,7.83,419,8.57,552
+21,Kebbi,Birnin Kebbi,North West,3.55,53,5.21,136,6.37,239,7.25,356,7.93,470
+22,Kogi,Lokoja,North Central,2.49,21,4.22,77,5.05,124,5.64,173,6.11,221
+23,Kwara,Ilorin,North Central,2.84,27,4.44,81,5.43,144,6.13,207,6.67,269
+24,Lagos,Ikeja,South West,3.64,39,4.62,77,5.11,103,5.42,122,5.68,141
+25,Nasarawa,Lafia,North Central,2.97,29,4.44,78,5.33,134,5.99,191,6.5,249
+26,Niger,Minna,North Central,3.09,39,4.55,106,5.49,181,6.19,261,6.73,340
+27,Ogun,Abeokuta,South West,2.35,12,3.72,39,4.62,74,5.32,114,5.92,159
+28,Ondo,Akure,South West,2.2,13,3.75,41,4.57,72,5.16,103,5.63,135
+29,Osun,Osogbo,South West,2.27,13,3.74,42,4.61,76,5.24,112,5.75,149
+30,Oyo,Ibadan,South West,2.61,18,4.07,56,5.09,108,5.86,168,6.47,226
+31,Plateau,Jos,North Central,4.5,104,6.35,254,7.37,371,8.11,489,8.7,606
+32,Rivers,Port Harcourt,South South,2.24,12,3.54,36,4.23,61,4.68,83,5.12,112
+33,Sokoto,Sokoto,North West,4.11,73,5.77,172,6.98,295,7.9,431,8.62,566
+34,Taraba,Jalingo,North East,3.81,67,5.4,161,6.23,228,6.84,297,7.31,364
+35,Yobe,Damaturu,North East,3.94,64,5.67,155,6.94,276,7.92,415,8.68,555
+36,Zamfara,Gusau,North West,4.09,75,5.86,184,7.05,306,7.93,439,8.62,566
+37,Federal Capital Territory (FCT),Abuja,North Central,2.65,30,3.95,71,4.6,107,5.08,145,5.48,183
