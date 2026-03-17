@@ -1,6 +1,6 @@
 # GIS-Based Site Suitability Analysis for Wind Energy Development in Nigeria
 
-**Yale School of the Environment — Environmental Data Science Certificate Program**
+**Yale School of the Environment - Environmental Data Science Certificate Program**
 
 **Student:** Odiniya Ojodomo | **Submitted:** March 2026
 
