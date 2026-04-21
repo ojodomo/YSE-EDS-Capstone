@@ -54,7 +54,7 @@ nigeria-wind-suitability/
 
 - **Access date:** January 30, 2026
 - **Coverage:** All 36 Nigerian states + Federal Capital Territory (FCT)
-- **Variables used:** Wind speed at 100m (m/s), Mean Power Density at 100m (W/m²)
+- **Variables used:** Mean Wind speed at 100m (m/s), Mean Power Density at 100m (W/m²)
 
 ### Data Dictionary
 
